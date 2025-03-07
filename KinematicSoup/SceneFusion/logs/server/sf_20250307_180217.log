@@ -1,0 +1,34 @@
+2025-03-07 21:02:28.5603 [INFO; Root]  KinematicSoup Technologies Inc.
+2025-03-07 21:02:28.5702 [INFO; Root]  Scene Fusion Server 2.0.3asl
+2025-03-07 21:02:28.6363 [DEBUG; Root]  Loading Asset Scripts
+2025-03-07 21:02:28.6385 [DEBUG; Root]  Loading Room Configs
+2025-03-07 21:02:28.6414 [DEBUG; Root]  Loading entity prefabs
+2025-03-07 21:02:28.6415 [DEBUG; Root]  Loading entity instances
+2025-03-07 21:02:28.6423 [DEBUG; Root]  Initializing scripts
+2025-03-07 21:02:28.6673 [INFO; Root]  Loading config.json
+2025-03-07 21:02:28.6675 [INFO; Root]  ProjectId: 1
+2025-03-07 21:02:28.6675 [INFO; Root]  Tier: SF Unity LAN
+2025-03-07 21:02:28.6676 [INFO; Root]  Terrain Editing: True
+2025-03-07 21:02:28.6677 [INFO; Root]  Object Limit: Unlimited
+2025-03-07 21:02:28.8037 [DEBUG; Root]  Room setup complete
+2025-03-07 21:02:28.8047 [INFO;  .⁋]  Starting room 0
+2025-03-07 21:02:28.8048 [INFO; Root]  Sending client updates every 6 frames
+2025-03-07 21:02:28.8052 [INFO; Root]  Setting player limit to 2
+2025-03-07 21:02:28.8053 [INFO; Root]  Opening TCP port 24324
+2025-03-07 21:02:36.7171 [INFO; Root]  Client(id = 1, address = 192.168.0.222:55335) connected
+2025-03-07 21:02:36.7249 [DEBUG; Root]  Client(id = 1, address = 192.168.0.222:55335) model validated
+2025-03-07 21:02:36.7582 [DEBUG; Root]  Client(id = 1, address = 192.168.0.222:55335) authenticated
+2025-03-07 21:02:36.7651 [INFO; KS.SceneFusion2.Server.srAuthenticationManager]  Connection [account = Komfort1306, address = 192.168.0.222]
+2025-03-07 21:02:38.0827 [DEBUG; KS.SceneFusion2.Server.srObjectManager]  Created 1 object(s).
+Total: 80 B (1), SceneSubscriptions: 41 B (1), String Table: 39 B
+2025-03-07 21:02:38.0845 [DEBUG; KS.SceneFusion2.Server.srObjectManager]  Created 1 object(s).
+Total: 337 B (2), Avatar: 174 B (1), String Table: 122 B, SceneSubscriptions: 41 B (1)
+2025-03-07 21:05:24.3441 [INFO; Root]  Client(id = 1, address = 192.168.0.222:55335) disconnected: 2-End of file
+2025-03-07 21:05:24.3509 [INFO; KS.SceneFusion2.Server.srAuthenticationManager]  Disconnection [account = Komfort1306, address = 192.168.0.222]
+2025-03-07 21:05:24.3605 [DEBUG; KS.SceneFusion2.Server.srObjectManager]  Deleted 2 object(s).
+Total: 122 B (0), String Table: 122 B
+2025-03-07 21:05:24.3631 [INFO; KS.SceneFusion2.Server.srAuthenticationManager]  Shutting down because no users are connected.
+2025-03-07 21:05:24.4537 [INFO;  .⁋]  Stopping room 0
+2025-03-07 21:05:24.4559 [DEBUG; KS.SceneFusion2.Server.srAnalytics]  Sending analytics data...
+2025-03-07 21:05:46.2658 [ERROR; KS.SceneFusion2.Server.srAnalytics]  The SSL connection could not be established, see inner exception.
+2025-03-07 21:05:51.9058 [INFO; Root]  Closing TCP port 24324
